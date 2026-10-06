@@ -10,7 +10,9 @@ I originally made this in 2017 in C++ with SFML. I later converted it to JavaScr
 
 ## Usage
 
-Open `index.html` in a browser. A new 600×600 map is generated on every page load (reload for a new island). There is no build step.
+**Live demo:** https://bilasyurii.github.io/perlin_noise_island_generator/
+
+Or open `index.html` locally in a browser. A new 600×600 map is generated on every page load (reload for a new island). There is no build step.
 
 ## How it works
 
