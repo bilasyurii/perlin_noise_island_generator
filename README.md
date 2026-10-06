@@ -4,6 +4,10 @@ A small, dependency-free browser project that procedurally generates a random is
 
 ![Example island](photos/photo_2026-10-07%2000.32.13.jpeg)
 
+## History
+
+I originally made this in 2017 in C++ with SFML. I later converted it to JavaScript using an automatic code conversion tool I found online, so parts of `script.js` (such as the commented-out C++ block) still show that origin.
+
 ## Usage
 
 Open `index.html` in a browser. A new 600×600 map is generated on every page load (reload for a new island). There is no build step.
